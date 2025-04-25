@@ -43,3 +43,12 @@ coverage/
 temp/
 tmp/
 *.tmp
+
+# SSH Keys
+*.pub
+id_*
+id_rsa*
+id_dsa*
+id_ed25519*
+*.pem
+*.key
